@@ -28,9 +28,7 @@ Developed by **Avik Kumar Sam**, under mentorship from Prof. Harish C. Phuleria 
    - Choose model type: **Log-linear (OLS)** or **Poisson**.
   
 3. **You may use the excel file template available here: https://github.com/sam-as/Dengue-Dashboard-Models/blob/main/Dummy_data.xlsx**
-   - Use the download icon ⬇️ next to the Raw Button.
-   - ![image](https://github.com/user-attachments/assets/0b40153a-58d7-4e22-9b2c-b13c3410f0f7)
-
+   - Use the download icon ⬇️ next to the Raw Button: ![image](https://github.com/user-attachments/assets/0b40153a-58d7-4e22-9b2c-b13c3410f0f7)
 
 ---
 
