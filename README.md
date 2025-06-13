@@ -46,16 +46,15 @@ Developed by **Avik Kumar Sam**, under mentorship from Prof. Harish C. Phuleria 
   - Seasonal dummies: `Season_Winter`, `Season_Monsoon`, `Season_Postmonsoon` (These should have 0 and 1)
   - Year (numeric) 
 
-### Mathematical Form:
+### Simplified Mathematical Form:
 
 **Log-linear Model**  
-![Log-linear](https://latex.codecogs.com/png.image?\dpi{110}&bg=white&space;\log(Cases+1)=\beta_0+\sum\beta_iX_i+\varepsilon)
+log(Cases + 1) = β₀ + Σ βᵢ Xᵢ + ε
 
 **Poisson Model**  
-![Poisson](https://latex.codecogs.com/png.image?\dpi{110}&bg=white&space;\log(E[Cases])=\beta_0+\sum\beta_iX_i)
+log(E[Cases]) = β₀ + Σ βᵢ Xᵢ
 
-
-Where `X_i` includes lagged weather variables and optional covariates.
+Where `Xᵢ` includes lagged weather variables and optional covariates.
 
 ---
 
