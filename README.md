@@ -49,10 +49,10 @@ Developed by **Avik Kumar Sam**, under mentorship from Prof. Harish C. Phuleria 
 ### Mathematical Form:
 
 **Log-linear Model**  
-![Log-linear]([https://latex.codecogs.com/png.image?\dpi{110}&space;\log(\text{Cases}+1)=\beta_0+\sum\beta_iX_i+\varepsilon](https://latex.codecogs.com/png.image?\dpi{110}&bg=white&space;\log(\text{Cases}+1)=\beta_0+\sum\beta_iX_i+\varepsilon))
+![Log-linear](https://latex.codecogs.com/png.image?\dpi{110}&bg=white&space;\log(\text{Cases}+1)=\beta_0+\sum\beta_iX_i+\varepsilon)
 
 **Poisson Model**  
-![Poisson]([https://latex.codecogs.com/png.image?\dpi{110}&space;\log(\mathbb{E}[\text{Cases}])=\beta_0+\sum\beta_iX_i](https://latex.codecogs.com/png.image?\dpi{110}&bg=white&space;\log(\mathbb{E}[\text{Cases}])=\beta_0+\sum\beta_iX_i))
+![Poisson](https://latex.codecogs.com/png.image?\dpi{110}&bg=white&space;\log(\mathbb{E}[\text{Cases}])=\beta_0+\sum\beta_iX_i)
 
 Where `X_i` includes lagged weather variables and optional covariates.
 
