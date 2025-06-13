@@ -106,7 +106,7 @@ log(Cases) ~ + 0.2312 x Temperature_lag1 ** - 0.0421 x RH_lag2 + ...
 - **Positive coefficient**: Increase in variable → higher dengue risk.
 - **Negative coefficient**: Increase in variable → lower dengue risk.
 - **Statistical significance**: Only coefficients with `**` are statistically meaningful.
-- **The interpretations for log-linear and Poisson are different.
+- **The interpretations for log-linear and Poisson are different.**
 
 ---
 
