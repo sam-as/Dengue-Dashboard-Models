@@ -48,17 +48,13 @@ Developed by **Avik Kumar Sam**, under mentorship from Prof. Harish C. Phuleria 
 
 ### Mathematical Form:
 
-- **Log-linear Model**:
-  \[
-  \log(\text{Cases} + 1) = \beta_0 + \sum \beta_i X_i + \varepsilon
-  \]
+**Log-linear Model**  
+![Log-linear](https://latex.codecogs.com/png.image?\dpi{110}&space;\log(\text{Cases}+1)=\beta_0+\sum\beta_iX_i+\varepsilon)
 
-- **Poisson Model**:
-  \[
-  \log(\mathbb{E}[\text{Cases}]) = \beta_0 + \sum \beta_i X_i
-  \]
+**Poisson Model**  
+![Poisson](https://latex.codecogs.com/png.image?\dpi{110}&space;\log(\mathbb{E}[\text{Cases}])=\beta_0+\sum\beta_iX_i)
 
-Where \( X_i \) includes lagged weather variables and optional Variables.
+Where `X_i` includes lagged weather variables and optional covariates.
 
 ---
 
