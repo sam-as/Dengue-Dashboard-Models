@@ -5,7 +5,7 @@ This dashboard provides an interactive platform for modelling the delayed effect
 
 The dashboard is available at: https://dengue-dashboard.onrender.com/ 
 
-Developed by **Avik Kumar Sam**, under mentorship from Prof. Harish C. Phuleria (IITB) and Dr. Ipsita Pal Bhowmick (ICMR).  
+Developed by **Avik Kumar Sam**, under mentorship from Prof. Harish C. Phuleria (IITB), Dr. Ipsita Pal Bhowmick (ICMR) and Dr. Kalpana Baruah (NCVBDC).  
 **Reference**: [Jena et al., 2025](https://doi.org/10.1080/22221751.2025.2493924)
 
 ---
